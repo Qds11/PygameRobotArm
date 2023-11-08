@@ -21,6 +21,6 @@ Visualization: The program creates a window using Pygame and displays the robot 
 The program defines a class myPolygon that represents individual segments of the robot arm. Each segment has attributes like position, rotation angle, and color.
 The program uses transformation matrices to control the position and rotation of arm segments and the pincher.
 
-
+## Video Demo
 https://github.com/Qds11/PygameRobotArm/assets/101784318/11c4abac-bc99-45a4-ab5f-1d54957d40ba
 
