@@ -4,9 +4,11 @@ This Python program simulates a robot arm using the Pygame library. The arm cons
 
 ## How to Run
 
-### Prerequisites: You need to have Python and Pygame installed on your system.
+### Prerequisites
+You need to have Python and Pygame installed on your system.
 
-### Running the Program: To run the program, execute the Python script in your terminal or preferred Python development environment. Ensure that you are in the correct directory.
+### Running the Program
+To run the program, execute the Python script in your terminal or preferred Python development environment. Ensure that you are in the correct directory.
 
 
 ## Controlling the Robot Arm:
